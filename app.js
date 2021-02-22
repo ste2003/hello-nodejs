@@ -1,1 +1,1 @@
-console.log("Version 1. Hello World!\n");
+console.log("Version 0.1. Hello World!\n");
